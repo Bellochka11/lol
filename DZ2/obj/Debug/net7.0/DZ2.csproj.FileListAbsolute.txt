@@ -1,0 +1,15 @@
+C:\Users\e.belyankina\Desktop\dd\DZ2\obj\Debug\net7.0\DZ2.csproj.AssemblyReference.cache
+C:\Users\e.belyankina\Desktop\dd\DZ2\obj\Debug\net7.0\DZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.belyankina\Desktop\dd\DZ2\obj\Debug\net7.0\DZ2.AssemblyInfoInputs.cache
+C:\Users\e.belyankina\Desktop\dd\DZ2\obj\Debug\net7.0\DZ2.AssemblyInfo.cs
+C:\Users\e.belyankina\Desktop\dd\DZ2\obj\Debug\net7.0\DZ2.csproj.CoreCompileInputs.cache
+C:\Users\e.belyankina\Desktop\dd\DZ2\bin\Debug\net7.0\DZ2.exe
+C:\Users\e.belyankina\Desktop\dd\DZ2\bin\Debug\net7.0\DZ2.deps.json
+C:\Users\e.belyankina\Desktop\dd\DZ2\bin\Debug\net7.0\DZ2.runtimeconfig.json
+C:\Users\e.belyankina\Desktop\dd\DZ2\bin\Debug\net7.0\DZ2.dll
+C:\Users\e.belyankina\Desktop\dd\DZ2\bin\Debug\net7.0\DZ2.pdb
+C:\Users\e.belyankina\Desktop\dd\DZ2\obj\Debug\net7.0\DZ2.dll
+C:\Users\e.belyankina\Desktop\dd\DZ2\obj\Debug\net7.0\refint\DZ2.dll
+C:\Users\e.belyankina\Desktop\dd\DZ2\obj\Debug\net7.0\DZ2.pdb
+C:\Users\e.belyankina\Desktop\dd\DZ2\obj\Debug\net7.0\DZ2.genruntimeconfig.cache
+C:\Users\e.belyankina\Desktop\dd\DZ2\obj\Debug\net7.0\ref\DZ2.dll
